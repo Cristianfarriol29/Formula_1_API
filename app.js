@@ -1,4 +1,4 @@
-const url = "http://localhost:8081/api/teams";
+const url = "https://api-node-nu.vercel.app/api/teams";
 const containerPilots = document.querySelector(".container_request");
 const containerMain = document.querySelector(".container_main");
 
